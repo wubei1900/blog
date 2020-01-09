@@ -8,7 +8,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "post": "hexo new post",
-    "dll": "hexo clean && hexo g && gulp && hexo s"
+    "dll": "hexo clean && hexo g && hexo s"
   },
   "hexo": {
     "version": "4.2.0"
